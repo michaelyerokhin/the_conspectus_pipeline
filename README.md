@@ -1,6 +1,11 @@
-# The Conspectus — Ingestion Pipeline
+# The Conspectus
 
 This repo houses the ingestion/parsing layer of The Conspectus infrastructure. It will handle fetching, normalizing, and updating data from curated sources.
+
+# 🗓️⚙️ Technical Roadmap
+<img width="569" height="838" alt="image" src="https://github.com/user-attachments/assets/d0aa7e40-4a53-4cb9-996d-34dbfdc5c3cd" />
+
+👉👉 View/comment on the design decisions [here](https://www.notion.so/Technical-Design-Decision-Document-28b250e4573880e7bf67dc5d701b48cf?source=copy_link).
 
 ---
 
