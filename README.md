@@ -18,7 +18,7 @@ This repo houses the ingestion/parsing layer of The Conspectus infrastructure. I
    ```bash
    python3 -m venv .venv
    source .venv/bin/activate    # macOS/Linux
-   # .\.venv\Scripts\activate  # Windows PowerShell
+   .\.venv\Scripts\activate  # Windows PowerShell
    ```
 
 3. Install dependencies and the package (editable)
